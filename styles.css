@@ -1,0 +1,46 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+*{
+  font-family: "Inter", sans-serif,;
+  font-optical-sizing: auto;
+  font-weight: 400, 500, 600, 700, 800, 900;
+  font-style: normal;
+}
+
+*{
+    font-family: "Allura", cursive;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+*{
+    background-color: black;
+}
+.header_items {
+    width: 100%;
+    height: 60vh;
+    border: 2px solid red; 
+    background-color: rgba(119, 119, 119, 0) 100%);
+       
+}
+
+.nav_items{
+    margin: 20px 190px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 20px;   
+}
+.nav_btn button {
+    margin: 10px;
+    
+}
